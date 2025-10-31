@@ -1,5 +1,6 @@
 # global-earthquake-dashboard
-Real-time earthquake data analytics and visualization dashboard built using Python, Power BI, and the USGS live API.
+Real-time Global Earthquake Dashboard built using Python, Power BI, and the USGS Earthquake API.
+Provides data-driven insights on seismic activity, magnitude distribution, and regional risk patterns worldwide.
 # 🌎 Global Earthquake Dashboard
 
 An interactive, real-time data visualization project that tracks and analyzes worldwide earthquake activity.  
