@@ -41,7 +41,9 @@ It enables users to identify **high-risk zones**, **magnitude distributions**, a
 GLOBAL_DISASTER_PROJECT/
 │
 ├── data_raw/ # Raw data fetched from API
+
 ├── data_clean/ # Cleaned and processed data
+
 ├── scripts/ # Python scripts for data handling
 │ ├── collection.py # Fetch real-time data
 │ ├── cleaning.py # Clean and prepare data
@@ -49,12 +51,16 @@ GLOBAL_DISASTER_PROJECT/
 │ ├── geovisualization.py # Geospatial data visualization
 │ └── model_prediction.py # (Optional) Predictive analytics
 │
+
 ├── dashboard/ # Power BI dashboard files
 │ └── global_disaster_dashboard.pbix
 │
+
 ├── output/ # Exported visualizations & results
 │
+
 ├── README.md # Project documentation
+
 └── requirements.txt # Python dependencies (optional)
 
 ---
